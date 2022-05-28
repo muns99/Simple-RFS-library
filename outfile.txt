@@ -1,0 +1,417 @@
+Testing: library.db removed successfully.
+library.db is Open
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				 MainMenu
+
+			 (1) Add New Book.
+			 (2) Search for a book (by book title).
+			 (3) Search for a book (by book number).
+			 (4) Find all books by author.
+			 (5) Find all books by publisher.
+			 (6) Modify book cost (provide book number).
+			 (7) Modify book quantity (provide book number).
+			 (8) Remove book (provide book number).
+			 (9) Sort books by title.
+			 (10) Find all books with zero quantity.
+			 (11) Find all books with cost above a given value (provide reference cost).
+			 (12) Exit.
+
+		 Enter your choice (1...12) : 			Adding New Book
+
+Book Number : Book Quantity : Book Number Of Pages : Book Cost : Title : Author Name : Publisher Name : a New Book has been successfully added
+Do you want to add another (y/n)?			Adding New Book
+
+Book Number : Book Quantity : Book Number Of Pages : Book Cost : Title : Author Name : Publisher Name : a New Book has been successfully added
+Do you want to add another (y/n)?			Adding New Book
+
+Book Number : Book Quantity : Book Number Of Pages : Book Cost : Title : Author Name : Publisher Name : a New Book has been successfully added
+Do you want to add another (y/n)?			Adding New Book
+
+Book Number : Book Quantity : Book Number Of Pages : Book Cost : Title : Author Name : Publisher Name : a New Book has been successfully added
+Do you want to add another (y/n)?			Adding New Book
+
+Book Number : Book Quantity : Book Number Of Pages : Book Cost : Title : Author Name : Publisher Name : a New Book has been successfully added
+Do you want to add another (y/n)?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				 MainMenu
+
+			 (1) Add New Book.
+			 (2) Search for a book (by book title).
+			 (3) Search for a book (by book number).
+			 (4) Find all books by author.
+			 (5) Find all books by publisher.
+			 (6) Modify book cost (provide book number).
+			 (7) Modify book quantity (provide book number).
+			 (8) Remove book (provide book number).
+			 (9) Sort books by title.
+			 (10) Find all books with zero quantity.
+			 (11) Find all books with cost above a given value (provide reference cost).
+			 (12) Exit.
+
+		 Enter your choice (1...12) : 			Remove Book
+
+Enter Book Nnumber to be removed : a Book has been successfully removed
+Do you want to remove another(y/n)?			Remove Book
+
+Enter Book Nnumber to be removed : a Book has been successfully removed
+Do you want to remove another(y/n)?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				 MainMenu
+
+			 (1) Add New Book.
+			 (2) Search for a book (by book title).
+			 (3) Search for a book (by book number).
+			 (4) Find all books by author.
+			 (5) Find all books by publisher.
+			 (6) Modify book cost (provide book number).
+			 (7) Modify book quantity (provide book number).
+			 (8) Remove book (provide book number).
+			 (9) Sort books by title.
+			 (10) Find all books with zero quantity.
+			 (11) Find all books with cost above a given value (provide reference cost).
+			 (12) Exit.
+
+		 Enter your choice (1...12) : 			Modifying Cost Of Book
+
+Enter Book Number to be modified : Old Cost : 40
+New Cost : a Book Cost has been successfully modified
+Do you want to modify another (y/n)?			Modifying Cost Of Book
+
+Enter Book Number to be modified : Old Cost : 35
+New Cost : a Book Cost has been successfully modified
+Do you want to modify another (y/n)?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				 MainMenu
+
+			 (1) Add New Book.
+			 (2) Search for a book (by book title).
+			 (3) Search for a book (by book number).
+			 (4) Find all books by author.
+			 (5) Find all books by publisher.
+			 (6) Modify book cost (provide book number).
+			 (7) Modify book quantity (provide book number).
+			 (8) Remove book (provide book number).
+			 (9) Sort books by title.
+			 (10) Find all books with zero quantity.
+			 (11) Find all books with cost above a given value (provide reference cost).
+			 (12) Exit.
+
+		 Enter your choice (1...12) : 			Modifying Quantity Of Book
+
+Enter Book Number to be modified : Old Quantity : 40
+New Quantity : a Book Quantity has been successfully modified
+Do you want to modify another (y/n)?			Modifying Quantity Of Book
+
+Enter Book Number to be modified : Old Quantity : 30
+New Quantity : a Book Quantity has been successfully modified
+Do you want to modify another (y/n)?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				 MainMenu
+
+			 (1) Add New Book.
+			 (2) Search for a book (by book title).
+			 (3) Search for a book (by book number).
+			 (4) Find all books by author.
+			 (5) Find all books by publisher.
+			 (6) Modify book cost (provide book number).
+			 (7) Modify book quantity (provide book number).
+			 (8) Remove book (provide book number).
+			 (9) Sort books by title.
+			 (10) Find all books with zero quantity.
+			 (11) Find all books with cost above a given value (provide reference cost).
+			 (12) Exit.
+
+		 Enter your choice (1...12) : 			Find All Books With Zero Quantity
+
+Book Number : 101
+Book Title : Data Structures and Algorithms
+Author Name : Michael Goodrich
+Publisher : Wiley
+Book Cost : 50
+Quantity : 0
+Number Of Pages : 736
+Book Number : 103
+Book Title : Modern Software Engineering
+Author Name : David Farley
+Publisher : Addison Wesley
+Book Cost : 110
+Quantity : 0
+Number Of Pages : 256
+	Number Of Books Is: 2
+Do you want to repeat this (y/n)?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				 MainMenu
+
+			 (1) Add New Book.
+			 (2) Search for a book (by book title).
+			 (3) Search for a book (by book number).
+			 (4) Find all books by author.
+			 (5) Find all books by publisher.
+			 (6) Modify book cost (provide book number).
+			 (7) Modify book quantity (provide book number).
+			 (8) Remove book (provide book number).
+			 (9) Sort books by title.
+			 (10) Find all books with zero quantity.
+			 (11) Find all books with cost above a given value (provide reference cost).
+			 (12) Exit.
+
+		 Enter your choice (1...12) : 	Find All Books With Cost Above:Book Number : 102
+Book Title : Object Oriented Programming
+Author Name : Robert Lafore
+Publisher : Sams
+Book Cost : 100
+Quantity : 35
+Number Of Pages : 750
+Book Number : 103
+Book Title : Modern Software Engineering
+Author Name : David Farley
+Publisher : Addison Wesley
+Book Cost : 110
+Quantity : 0
+Number Of Pages : 256
+	Number Of Books Is: 2
+Do you want to repeat this with another cost (y/n)?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				 MainMenu
+
+			 (1) Add New Book.
+			 (2) Search for a book (by book title).
+			 (3) Search for a book (by book number).
+			 (4) Find all books by author.
+			 (5) Find all books by publisher.
+			 (6) Modify book cost (provide book number).
+			 (7) Modify book quantity (provide book number).
+			 (8) Remove book (provide book number).
+			 (9) Sort books by title.
+			 (10) Find all books with zero quantity.
+			 (11) Find all books with cost above a given value (provide reference cost).
+			 (12) Exit.
+
+		 Enter your choice (1...12) : 				Sort
+
+Sorting ...
+Sorting completed.
+Book Number : 101
+Book Title : Data Structures and Algorithms
+Author Name : Michael Goodrich
+Publisher : Wiley
+Book Cost : 50
+Quantity : 0
+Number Of Pages : 736
+Book Number : 103
+Book Title : Modern Software Engineering
+Author Name : David Farley
+Publisher : Addison Wesley
+Book Cost : 110
+Quantity : 0
+Number Of Pages : 256
+Book Number : 102
+Book Title : Object Oriented Programming
+Author Name : Robert Lafore
+Publisher : Sams
+Book Cost : 100
+Quantity : 35
+Number Of Pages : 750
+Do you want to do another Sort(y/n)?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				 MainMenu
+
+			 (1) Add New Book.
+			 (2) Search for a book (by book title).
+			 (3) Search for a book (by book number).
+			 (4) Find all books by author.
+			 (5) Find all books by publisher.
+			 (6) Modify book cost (provide book number).
+			 (7) Modify book quantity (provide book number).
+			 (8) Remove book (provide book number).
+			 (9) Sort books by title.
+			 (10) Find all books with zero quantity.
+			 (11) Find all books with cost above a given value (provide reference cost).
+			 (12) Exit.
+
+		 Enter your choice (1...12) : 
